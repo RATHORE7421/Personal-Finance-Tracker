@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8081/api/expenses";
+const API_URL = "https://personal-finance-tracker-09zc.onrender.com/api/expenses";
 
 export const getExpenses = async (startDate, endDate) => {
   try {

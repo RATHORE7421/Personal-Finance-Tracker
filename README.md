@@ -53,7 +53,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
    npm start
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `https://personal-finance-tracker-1-yoo3.onrender.com/`.
 
 ### Backend
 
@@ -71,7 +71,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
    ./mvnw spring-boot:run
    ```
 
-   The backend will be available at `http://localhost:8080`.
+   The backend will be available at `https://personal-finance-tracker-09zc.onrender.com`.
 
 ## Usage
 
